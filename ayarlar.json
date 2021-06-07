@@ -1,9 +1,9 @@
 {
-    "prefix": "Prefix Belirleyin",
-    "sahip": "yapımcı ID girin",
+    "prefix": "+yardım",
+    "sahip": "EmreCraft#2065",
     "surum": "0.1",
-    "token": "bot Token girin",
-    "GOOGLE_API_KEY":"Google API KEY girin",
+    "token": "ODQ0MTA1MTQzMjM4Nzg3MDkz.YKNkLA.Fb2cBc6qsXWmpRnOXQbixBU1Pls",
+    "GOOGLE_API_KEY":"63758695438371957",
     "noPerms": ":x: Yetkin Yok."
   }
   
